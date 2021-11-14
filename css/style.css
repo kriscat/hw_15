@@ -1,0 +1,64 @@
+.a {
+    text-decoration: none;
+    color: rgb(180, 71, 44);
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.a:hover,
+.footer_a:hover,
+i:hover,
+.logo:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.logo {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
+}
+
+.p {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(44, 15, 29);
+    font-size: 30px;
+}
+
+footer,
+header {
+    background-color: #ffc107;
+    height: auto;
+    max-width: 100%;
+    padding: 15px;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+footer {
+    max-width: 100%;
+    font-size: 15px;
+}
+
+.footer_a {
+    text-decoration: none;
+    color: rgb(90, 68, 7);
+    font-family: 'Dosis', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.b {
+    text-align: right;
+}
+
+.i {
+    color: rgb(251, 252, 232);
+    font-size: 20px;
+    padding: 7px;
+}
