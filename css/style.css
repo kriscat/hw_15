@@ -27,6 +27,12 @@ i:hover,
     font-size: 30px;
 }
 
+.p1 {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(44, 15, 29);
+    font-size: 20px;
+}
+
 footer,
 header {
     background-color: #ffc107;
